@@ -1,5 +1,4 @@
 # Brazilian E-Commerce Dashboard
-Berisi data-data penjualan Brazilian E-Commerce
 Cara membuka dashboard:
 
 ## Setup Environment - Anaconda:
